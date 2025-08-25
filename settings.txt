@@ -1,7 +1,0 @@
-securesmtp
-587
-True
-trix.wasserscheid@user.de
-1Mercedeskuchen!
-Helmut Wasserscheid <trix.wasserscheid@userr.de>
-Auftrag 227439 227439   
